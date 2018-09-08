@@ -1,0 +1,19 @@
+{
+  "name": "chocopie-redux-devtools-demo",
+  "version": "1.0.0",
+  "description": "wdoijwoifjewaf",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "pulp browserify --to index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0"
+  }
+}

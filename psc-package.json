@@ -1,0 +1,13 @@
+{
+  "name": "acme-spacchetti",
+  "set": "080918",
+  "source": "https://github.com/justinwoo/spacchetti.git",
+  "depends": [
+    "choco-pie",
+    "console",
+    "prelude",
+    "react-basic",
+    "redux-devtools",
+    "simple-json"
+  ]
+}
